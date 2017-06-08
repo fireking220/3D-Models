@@ -1,0 +1,9 @@
+Smoothed
+
+Faces: 76024
+Tris: 152048
+
+Non-Smoothed
+
+Faces: 4752
+Tris: 9502
